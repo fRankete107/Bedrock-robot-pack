@@ -11,7 +11,7 @@
                 "minecraft:is_tamed": {},
                 "minecraft:inventory": {
                     "container_type": "container",
-                    "inventory_size": 16
+                    "inventory_size": 27
                 },
                 "minecraft:equippable": {
                     "slots": [
