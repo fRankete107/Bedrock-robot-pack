@@ -1,1 +1,30 @@
-{}
+{
+    "entity_sounds": {
+        "entities": {
+            "sample:robot": {
+                "volume": 1,
+                "pitch": [
+                    0.9,
+                    1.0
+                ],
+                "events": {
+                    "step": {
+                        "sound": "mob.irongolem.walk",
+                        "volume": 1,
+                        "pitch": 1.1
+                    },
+                    "attack": {
+                        "sound": "mob.irongolem.hit",
+                        "volume": 1,
+                        "pitch": 0.9
+                    },
+                    "death": {
+                        "sound": "mob.irongolem.death",
+                        "volume": 1,
+                        "pitch": 1.0
+                    }
+                }
+            }
+        }
+    }
+}

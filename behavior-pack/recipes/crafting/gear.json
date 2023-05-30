@@ -1,27 +1,27 @@
 {
-    "format_version": "1.17.40",
-    "minecraft:recipe_shaped": {
-        "description": {
-            "identifier": "bridge:gear"
-        },
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            " I ",
-            "I I",
-            " I "
-        ],
-        "key": {
-            "I": {
-                "item": "minecraft:iron_ingot"
-            }
-        },
-        "result": [
-            {
-                "item": "bridge:gear",
-                "count": 3
-            }
-        ]
-    }
+	"format_version": "1.17.40",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:gear"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" I ",
+			"I I",
+			" I "
+		],
+		"key": {
+			"I": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "bridge:gear",
+				"count": 3
+			}
+		]
+	}
 }
